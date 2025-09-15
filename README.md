@@ -1,16 +1,28 @@
-## Hi there 👋
+# Dr. José Peña Bravo
+### Biomedical Researcher | Health Educator | Data Analyst
 
-<!--
-**jpenabravoj00/jpenabravoj00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome! I am a senior-level researcher and educator with a passion for leveraging data to drive insights in the medical and health sectors. My work bridges the gap between complex biomedical research and data-driven storytelling.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### About Me
+With over 10 years of experience in neuroscience research and medical education, I have developed a strong skill set in curriculum design, lecturing, and statistical analysis. I am now applying my analytical expertise to public health interventions and data analytics, using tools like R, Python and SQL to analyze complex health datasets. I am seeking opportunities where I can apply my unique background to solve meaningful problems in both academic and industry settings.
+
+---
+
+### 🛠️ Skills
+
+| Data Analysis & Technical  | Academic & Research |
+| ----------------- | --------------------- |
+| Python (Pandas, Matplotlib, Scikit-learn) | Curriculum Design     |
+| SQL               | Lecturing & Pedagogy  |
+| Statistical Analysis (R programming)      | Grant Writing         |
+| Data Visualization (Tableau, Seaborn) | Peer-Reviewed Publication |
+| Jupyter Notebooks | Student Mentorship    |
+
+---
+
+### 📫 Get In Touch
+
+- **Email:** [josepenabravo@gmail.com](mailto:josepenabravo@gmail.com)
+- **LinkedIn:** [linkedin.com/in/josepenabravo](https_//linkedin.com/in/josepenabravo)
