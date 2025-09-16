@@ -1,4 +1,4 @@
-# Dr. José I. Peña Bravo
+# José I. Peña Bravo, PhD
 ### Biomedical Researcher | Health Educator | Data Analyst
 
 Welcome! I am a senior-level researcher and educator with a passion for leveraging data to drive insights in the medical and health sectors. My work bridges the gap between complex biomedical research and data-driven storytelling.
