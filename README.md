@@ -6,7 +6,7 @@ Welcome! I am a senior-level researcher and educator with a passion for leveragi
 ---
 
 ### About Me
-With over 10 years of experience in neuroscience research and medical education, I have developed a strong skill set in curriculum design, lecturing, and statistical analysis. I am now applying my analytical expertise to public health interventions and data analytics, using tools like R, Python and SQL to analyze complex health datasets. I am seeking opportunities where I can apply my unique background to solve meaningful problems in both academic and industry settings.
+With over 10 years of experience in Neuroscience research and medical education, I have developed a strong skill set in curriculum design, lecturing, and statistical analysis. I am now applying my analytical expertise to public health interventions and data analytics, using tools like R, Python and SQL to analyze complex health datasets. I am seeking opportunities where I can apply my unique background to solve meaningful problems in both academic and industry settings.
 
 ---
 
