@@ -62,4 +62,4 @@ As a former **Healthcare Data Analyst & Interim Program Manager** for the **Flor
 
 * 💼 **LinkedIn**: [linkedin.com/in/josepenabravo](https://linkedin.com/in/josepenabravo)
 * 🌐 **Portfolio Website**: [jpenabravoj00.github.io](https://jpenabravoj00.github.io)
-* ✉️ **Email**: [josepenabravo@gmail.com](mailto:josepenabravo@gmail.com)
+* ✉️ **Email**: [penabravods@gmail.com](mailto:penabravods@gmail.com)
