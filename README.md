@@ -3,7 +3,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-José_Peña_Bravo-0A66C2?style=flat&logo=linkedin)](https://linkedin.com/in/josepenabravo)
 [![GitHub Portfolio](https://img.shields.io/badge/Portfolio-jpenabravoj00.github.io-10B981?style=flat&logo=github)](https://jpenabravoj00.github.io)
-[![Email](https://img.shields.io/badge/Email-josepenabravo%40gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:josepenabravo@gmail.com)
+[![Email](https://img.shields.io/badge/Email-penabravods%40gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:penabravods@gmail.com)
 
 ---
 
