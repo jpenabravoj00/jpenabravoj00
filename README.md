@@ -22,7 +22,7 @@ As a former **Healthcare Data Analyst & Interim Program Manager** for the **Flor
 * **Executive Summary**: Analyzed official open-access **CDC VSRR** mortality surveillance and **HRSA** Health Center Program directories to identify geographic regions where synthetic fentanyl surges (`T40.4`) and methamphetamine polysubstance co-use (`T43.6`) mathematically saturate Federally Qualified Health Center (FQHC) primary care capacity.
 * **Key Innovations**: Engineered three custom decision metrics—*Clinic Catchment Misalignment Index*, *Synthetic Surge Velocity*, and *Polysubstance Cross-Over Index*—backed by weighted DAX measures and December calendar-year suppression controls.
 * **Tech Stack & Artifacts**: R (Tidyverse 4.4), Power BI Service, DAX, CDC VSRR, HRSA Open Data.
-* 🔗 **Live Interactive Dashboard**: [Power BI Web Report](https://app.powerbi.com/reportEmbed?reportId=05ad9cac-2c0a-4517-826a-0dce97e81d46&autoAuth=true&ctid=c82f2d55-67d0-4a4a-8820-2f84a18c1cdd) | 📂 [GitHub Repository](https://github.com/jpenabravoj00/opioid-surveillance-catchment-analysis)
+* 🔗 **Live Interactive Dashboard**: [Power BI Web Report, (may require Microsoft 365 sign-in)](https://app.powerbi.com/reportEmbed?reportId=05ad9cac-2c0a-4517-826a-0dce97e81d46&autoAuth=true&ctid=c82f2d55-67d0-4a4a-8820-2f84a18c1cdd) | 📂 [GitHub Repository](https://github.com/jpenabravoj00/opioid-surveillance-catchment-analysis)
 
 ---
 
