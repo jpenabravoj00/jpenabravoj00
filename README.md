@@ -31,7 +31,7 @@ As a former **Healthcare Data Analyst & Interim Program Manager** for the **Flor
 * **Executive Summary**: Analyzed the US Department of Labor Women's Bureau National Database of Childcare Prices (NDCP) covering county-level costs across all 50 states over 14 years. Modeled longitudinal price growth trajectories (+79.7% for infant center care), state-level disparity benchmarks, and income elasticity correlations ($r = 0.58$).
 * **Interactive Artifact**: Standalone interactive HTML report with Plotly charts for interactive county-level filtering, hover tooltips, and elasticity modeling.
 * **Tech Stack & Artifacts**: Python 3.10+, Pandas, Matplotlib, Seaborn, Plotly, OpenPyXL, Jupytext.
-* 📊 **Interactive Report**: [HTML Report Preview]((https://jpenabravoj00.github.io/ndcp-analysis/)) | 📂 [GitHub Repository](https://github.com/jpenabravoj00/ndcp-analysis)
+* 📊 **Interactive Report**: [HTML Report Preview](https://jpenabravoj00.github.io/ndcp-analysis/) | 📂 [GitHub Repository](https://github.com/jpenabravoj00/ndcp-analysis)
 
 ---
 
