@@ -35,14 +35,23 @@ As a former **Healthcare Data Analyst & Interim Program Manager** for the **Flor
 
 ---
 
+#### 3. [Oncology Price Transparency & Economic Analysis](https://github.com/jpenabravoj00/oncology-price-transparency)
+> **Hospital Rate Distortion, Commercial Markups & Patient Coinsurance Toxicity Across 5,068 Contracts**
+* **Executive Summary**: Analyzed multi-gigabyte CMS hospital Machine-Readable Files (MRFs) from major Florida health systems (Moffitt Cancer Center, Baptist Health, HCA Healthcare) linked with federal **Medicare Part B Average Sales Price (ASP)** statutory schedules. Revealed median commercial markups of **4.41x over federal ASP**, an acute **"Cash Paradox"** (cash price beating in-network commercial insurance in 39.0% of contracts), and catastrophic out-of-pocket patient financial toxicity ($3,181 coinsurance per single Keytruda infusion).
+* **Key Innovations**: Engineered a production DuckDB OLAP pipeline (Bronze $\rightarrow$ Silver $\rightarrow$ Gold) ingesting raw MRFs (JSON/CSV), dynamic plan-column unpivoting ETL, statutory reference-based benchmark modeling, and an interactive 5-tab executive analytics engine.
+* **Tech Stack & Artifacts**: Python 3.11, DuckDB (OLAP), Streamlit, Plotly, Pandas, CMS Hospital MRF Datasets, Medicare ASP Benchmarks.
+* 🚀 **Live Interactive App**: [Streamlit Analytics Dashboard](https://oncology-price-transparency-jfeswcurkkkvqs65td4wgd.streamlit.app/) | 📂 [GitHub Repository](https://github.com/jpenabravoj00/oncology-price-transparency)
+
+---
+
 ### 🛠️ Technical & Strategic Skills
 
 | Domain & Analytics | Programming & Tools | Academic & Leadership |
 | :--- | :--- | :--- |
 | **Epidemiological Surveillance (ICD-10)** | **R** (`tidyverse`, `dplyr`, `ggplot2`) | Medical & Graduate Teaching |
-| **Health Economics & Catchment Modeling** | **Python** (`pandas`, `numpy`, `seaborn`, `plotly`) | Doctoral Curriculum Design |
-| **Biomedical & Neuroscience Research** | **Power BI** (DAX Measures, Data Modeling) | Peer-Reviewed Publication |
-| **Syndromic & Mortality Surveillance** | **SQL** (Aggregation, Window Functions) | Grant & IRB Protocol Management |
+| **Health Economics & Price Transparency** | **Python** (`pandas`, `numpy`, `seaborn`, `plotly`) | Doctoral Curriculum Design |
+| **Biomedical & Neuroscience Research** | **DuckDB & SQL** (OLAP Modeling, Window Functions) | Peer-Reviewed Publication |
+| **Syndromic & Mortality Surveillance** | **Streamlit & Power BI** (Interactive Web Apps, DAX) | Grant & IRB Protocol Management |
 | **Data Cleaning & Suppression Handling** | **Git / GitHub**, Jupytext, Markdown | Cross-Functional Team Leadership |
 
 ---
